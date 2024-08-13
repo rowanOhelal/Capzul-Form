@@ -1,0 +1,61 @@
+.container{
+    width: 1200px;
+    height: 580px;
+    top: 70px;
+    left: 180px;
+}
+
+.main-bg{
+    background-image: url("BG.png");
+}
+
+.main-head{
+    width: 350px;
+}
+
+.sec1-bg{
+    width: 350px;
+    top: 170px;
+    left: 70px;
+}
+
+.sec2-bg{
+    width: 270px;
+    top: 140px;
+    left: 110px;
+}
+
+.content{
+    width: 500px;
+    height: 520px;
+}
+
+.logo{
+    width: 80px;
+}
+
+.xs-font{
+    font-size: 9px;
+}
+
+.sm-font{
+    font-size: 10px;
+}
+
+.input{
+    width: 230px;
+    height: 30px;
+}
+
+.pass{
+    width: 85%;
+}
+
+.btn-bg{
+    background-image: url("google-button.png");
+}
+
+.group{
+    width: 210px;
+    height: 30px;
+}
